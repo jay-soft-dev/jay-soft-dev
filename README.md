@@ -70,7 +70,8 @@
 
 📊 **GitHub Stats:**
 
+
 <p align="left">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=jay-soft-dev&show_icons=true&theme=radial" alt="Jay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=jay-soft-dev&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=radial" alt="Jay's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-soft-dev&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
