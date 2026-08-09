@@ -1,6 +1,6 @@
 # 💫 MY PORTFOLIO
 
-👋 Hi, I'm **JAY PAWAR**  
+👋 Hi, I'm **Jay Pawar**  
 🎓 **BCA (Science) Student | Tech Enthusiast**  
 💻 Passionate about **Full Stack Development** & **Software Engineering**  
 🌱 Currently building web apps and honing problem-solving skills with C/C++  
@@ -14,6 +14,25 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/JAYP8317)
 [![Instagram](https://img.shields.io/badge/Instagram--1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jay__83)
 [![Instagram](https://img.shields.io/badge/Instagram--2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jay_p99)
+
+---
+
+🚀 **Featured Projects:**
+
+* 📌 **[Student Notes Save Web](https://github.com/jay-soft-dev/STUDENT-NOTES-SAVE-WEB-)**
+  * **Description:** A web application designed for students to organize, store, and manage study notes efficiently.
+  * **Tech Stack:** `HTML` `CSS` `JavaScript`
+  * 🔗 **Repository:** [GitHub Code](https://github.com/jay-soft-dev/STUDENT-NOTES-SAVE-WEB-)
+
+* 📌 **[Smart Challan Engine](https://github.com/jay-soft-dev/SMART-CHALLAN-ENGINE-)**
+  * **Description:** An automated system built to streamline and process digital challan management and tracking logic.
+  * **Tech Stack:** `Software Logic` `Full Stack / Web`
+  * 🔗 **Repository:** [GitHub Code](https://github.com/jay-soft-dev/SMART-CHALLAN-ENGINE-)
+
+* 📌 **[ATM System Application](https://github.com/jay-soft-dev/ATM)**
+  * **Description:** A core logic implementation simulating standard Automated Teller Machine operations such as deposits, withdrawals, and balance inquiries.
+  * **Tech Stack:** `C` `C++`
+  * 🔗 **Repository:** [GitHub Code](https://github.com/jay-soft-dev/ATM)
 
 ---
 
@@ -51,8 +70,7 @@
 
 📊 **GitHub Stats:**
 
-📊 **GitHub Stats:**
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=dark" alt="Jay's GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=jay-soft-dev&show_icons=true&theme=radial" alt="Jay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=jay-soft-dev&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
