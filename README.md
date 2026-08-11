@@ -72,10 +72,13 @@
 ---
 ---
 
-### 🏆 GitHub Streak Stats
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=dark" alt="GitHub Streak" />
+### 🏆 GitHub Stats & Badges
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-soft-dev&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
+</p>
 ### 📈 Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay-soft-dev&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
