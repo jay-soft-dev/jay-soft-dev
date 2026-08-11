@@ -71,6 +71,8 @@
 📊 **GitHub Stats:**
 
 ---
+---
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=jay-soft-dev&theme=onedark&column=6&margin-w=15" alt="GitHub Trophies" />
