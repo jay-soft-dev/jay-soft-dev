@@ -74,10 +74,20 @@
 
 ---
 
-### 🏆 GitHub Stats & Badges
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-soft-dev&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
+### 🏆 GitHub Highlights
+
+<p align="left">
+  <a href="https://github.com/jay-soft-dev">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Profile-107C10?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jay-soft-dev">
+    <img src="https://img.shields.io/github/followers/jay-soft-dev?label=Followers&style=for-the-badge&color=238636&logo=github" />
+  </a>
+  <a href="https://github.com/jay-soft-dev">
+    <img src="https://img.shields.io/github/stars/jay-soft-dev?style=for-the-badge&color=e3b341&logo=github" />
+  </a>
 </p>
 ### 📈 Contribution Activity Graph
 
