@@ -73,10 +73,11 @@
 ---
 ---
 
-### 🏆 GitHub Trophies
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=jay-soft-dev&theme=onedark&column=6&margin-w=15" alt="GitHub Trophies" />
+### 🏆 GitHub Streak Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=dark" alt="GitHub Streak" />
 ---
 
 ### 📈 Contribution Activity Graph
