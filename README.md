@@ -71,13 +71,12 @@
 📊 **GitHub Stats:**
 
 ---
-
 ### 🏆 GitHub Trophies
 
-[![github trophy](https://github-profile-trophy.vercel.app/?username=jay-soft-dev&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=jay-soft-dev&theme=onedark&column=6&margin-w=15" alt="GitHub Trophies" />
 
 ---
 
 ### 📈 Contribution Activity Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jay-soft-dev&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jay-soft-dev&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
