@@ -69,16 +69,10 @@
 ---
 
 📊 **GitHub Stats:**
-
 ---
----
-
----
-
 ### 🏆 GitHub Streak Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=dark" alt="GitHub Streak" />
----
 
 ### 📈 Contribution Activity Graph
 
