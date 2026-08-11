@@ -70,11 +70,6 @@
 
 📊 **GitHub Stats:**
 ---
----
-
----
-
----
 
 ### 🏆 GitHub Highlights
 
