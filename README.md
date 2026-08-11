@@ -70,7 +70,14 @@
 
 📊 **GitHub Stats:**
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-soft-dev&theme=radial" alt="Jay's GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay-soft-dev&theme=radial" alt="Top Languages" width="48%" />
-</p>
+---
+
+### 🏆 GitHub Trophies
+
+[![github trophy](https://github-profile-trophy.vercel.app/?username=jay-soft-dev&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Contribution Activity Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jay-soft-dev&theme=react-dark&hide_border=true)
