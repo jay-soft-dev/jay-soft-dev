@@ -77,7 +77,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 🏢 Virtual Internships & Simulations
 
+* 🛡️ **Tata** – Cybersecurity Analyst Job Simulation *(IAM Fundamentals & Custom Security Solutions)*
+* 💻 **Walmart Global Tech** – Advanced Software Engineering *(Data Structures & System Architecture)*
+* 🏦 **Commonwealth Bank** – Software Engineering *(.NET Backend & React Frontend)*
+* 📊 **Deloitte** – Data Analytics Job Simulation *(Data Forensics & Analysis)*
+
+---
 📜 **Certifications:**
 
 * ☁️ **AWS Academy Graduate – Cloud Foundations** (20 Hours) | [Verify Badge](https://www.credly.com/go/4hpiCFuu)[cite: 4]
