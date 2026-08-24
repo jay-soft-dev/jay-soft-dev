@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Jay%20Pawar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=BCA%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=650&lines=Open+To+inter+Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Intern+%E2%9A%A1;Tata+%26+Deloitte+Virtual+Intern+%F0%9F%8F%A2;C%2B%2B+(STL)+%7C+DSA+%7C+MERN+Stack;AWS+Cloud+Certified+%E2%98%81%EF%B8%8F;Building+real+things%2C+one+line+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=650&lines=Open+To+Internships+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Tata+Group+Virtual+Intern+%F0%9F%8F%A2;Deloitte+Virtual+Intern+%F0%9F%93%88;Software+Engineering+Intern+%E2%9A%A1;C%2B%2B+(STL)+%7C+DSA+%7C+MERN+Stack;AWS+Cloud+Certified+%E2%98%81%EF%B8%8F;Building+real+things%2C+one+line+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
 <br/>
 
 <!-- Profile views & followers -->
